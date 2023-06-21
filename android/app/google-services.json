@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "304709513674",
+    "project_id": "ktask-a7f3b",
+    "storage_bucket": "ktask-a7f3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304709513674:android:9bc77fe4e33c54a5795f33",
+        "android_client_info": {
+          "package_name": "com.example.kuunganatask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304709513674-0571n90k8nsbseab3ptuglg2vqifo1ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmVaNUbS37THAy3VpM-2OHefSLqVsW8Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304709513674-0571n90k8nsbseab3ptuglg2vqifo1ok.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "304709513674-8k8dl6t74089om8l3020hl2dq0v3agaa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ktask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>527325234062-n7ph90erp4eoqou2cqllt98to112l3df.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.527325234062-n7ph90erp4eoqou2cqllt98to112l3df</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>527325234062-hjabgkq9r6vuhl1smbmi8cfped10hlis.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAwAOrk5R3FKN54vGmExW7Jja-F5lfWmg0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>527325234062</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kuunganatask</string>
+	<key>PROJECT_ID</key>
+	<string>kuungana-4afac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kuungana-4afac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:527325234062:ios:9ef8d26edf18c0eb62dadf</string>
+</dict>
+</plist>
