@@ -3,7 +3,7 @@
 
 Task Management app  Figma design is at (https://www.figma.com/file/pxd1UDP3s3054rfx1YFwWQ/Tasker---Task-Management-Apps-UI-Kits?type=design&node-id=175-1&t=8r7nHdoyUJfgCfS3-0)
 
-![](./screenshots/Thumbnail Figma.jpg)
+<img src="./screenshots/Thumbnail Figma.jpg">
 
 ## Project Description
 
